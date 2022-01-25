@@ -1,0 +1,10 @@
+{
+  "type": "player",
+  "id": 1,
+  "name": "Cristiano Ronaldo",
+  "stats": {
+    "goals": 30,
+    "appearances": 40,
+    "tackle": 17
+  }
+}

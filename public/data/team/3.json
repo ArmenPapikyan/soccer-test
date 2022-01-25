@@ -1,0 +1,27 @@
+{
+  "type": "team",
+  "id": 3,
+  "name": "FC Liverpool",
+  "children": [
+    {
+      "type": "player",
+      "id":5,
+      "name": "Mohamed Salah",
+      "stats": {
+        "goals": 35,
+        "appearances": 15,
+        "tackle": 14
+      }
+    },
+    {
+      "type": "player",
+      "id":6,
+      "name": "Roberto Firmino",
+      "stats": {
+        "goals": 18,
+        "appearances": 17,
+        "tackle": 19
+      }
+    }
+  ]
+}

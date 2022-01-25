@@ -1,0 +1,10 @@
+{
+  "type": "player",
+  "id": 3,
+  "name": "Gianluigi Donnarumma",
+  "stats": {
+    "goals": 0,
+    "appearances": 12,
+    "tackle": 1
+  }
+}

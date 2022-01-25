@@ -1,0 +1,10 @@
+{
+  "type": "player",
+  "id":6,
+  "name": "Roberto Firmino",
+  "stats": {
+    "goals": 18,
+    "appearances": 17,
+    "tackle": 19
+  }
+}

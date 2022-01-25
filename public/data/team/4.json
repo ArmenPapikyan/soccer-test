@@ -1,0 +1,27 @@
+{
+  "type": "team",
+  "id": 4,
+  "name": "Tottenham Hotspur",
+  "children": [
+    {
+      "type": "player",
+      "id":7,
+      "name": "Son Heung-min",
+      "stats": {
+        "goals": 13,
+        "appearances": 14,
+        "tackle": 17
+      }
+    },
+    {
+      "type": "player",
+      "id":8,
+      "name": "Dele Alli",
+      "stats": {
+        "goals": 14,
+        "appearances": 13,
+        "tackle": 11
+      }
+    }
+  ]
+}

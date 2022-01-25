@@ -1,0 +1,10 @@
+{
+  "type": "player",
+  "id":7,
+  "name": "Son Heung-min",
+  "stats": {
+    "goals": 13,
+    "appearances": 14,
+    "tackle": 17
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "player",
+  "id":5,
+  "name": "Mohamed Salah",
+  "stats": {
+    "goals": 35,
+    "appearances": 15,
+    "tackle": 14
+  }
+}

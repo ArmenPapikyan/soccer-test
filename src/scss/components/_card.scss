@@ -1,0 +1,32 @@
+.card {
+  width: 33%;
+  display: inline-block;
+  border: 1px solid;
+  height: 100%;
+  text-align: left;
+  margin: 0 20px;
+  padding: 60px 40px;
+  position: relative;
+
+  &-remove {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    padding: 20px;
+    cursor: pointer;
+  }
+
+  &-list {
+    margin-bottom: 5px;
+  }
+
+  &-subtitle {
+    text-align: center;
+    margin-bottom: 60px;
+  }
+
+  &-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+}

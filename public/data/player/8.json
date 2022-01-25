@@ -1,0 +1,10 @@
+{
+  "type": "player",
+  "id": 8,
+  "name": "Dele Alli",
+  "stats": {
+    "goals": 14,
+    "appearances": 13,
+    "tackle": 11
+  }
+}

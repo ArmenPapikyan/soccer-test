@@ -1,0 +1,27 @@
+{
+  "type": "team",
+  "id": 1,
+  "name": "FC Juventus",
+  "children": [
+    {
+      "type": "player",
+      "id": 1,
+      "name": "Cristiano Ronaldo",
+      "stats": {
+        "goals": 30,
+        "appearances": 40,
+        "tackle": 17
+      }
+    },
+    {
+      "type": "player",
+      "id": 2,
+      "name": "Leonardo Bonucci",
+      "stats": {
+        "goals": 2,
+        "appearances": 40,
+        "tackle": 61
+      }
+    }
+  ]
+}

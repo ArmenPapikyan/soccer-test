@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "name": "Seria A",
+    "type": "league",
+    "children": [
+      {
+        "type": "team",
+        "id": 1,
+        "name": "FC Juventus",
+        "children": [
+          {
+            "type": "player",
+            "id": 1,
+            "name": "Cristiano Ronaldo",
+            "stats": {
+              "goals": 30,
+              "appearances": 40,
+              "tackle": 17
+            }
+          },
+          {
+            "type": "player",
+            "id": 2,
+            "name": "Leonardo Bonucci",
+            "stats": {
+              "goals": 2,
+              "appearances": 40,
+              "tackle": 61
+            }
+          }
+        ]
+      },
+      {
+        "type": "team",
+        "id": 2,
+        "name": "AC Milan",
+        "children": [
+          {
+            "type": "player",
+            "id": 3,
+            "name": "Gianluigi Donnarumma",
+            "stats": {
+              "goals": 0,
+              "appearances": 12,
+              "tackle": 1
+            }
+          },
+          {
+            "type": "player",
+            "id": 4,
+            "name": "Krzystof Platek",
+            "stats": {
+              "goals": 10,
+              "appearances": 20,
+              "tackle": 40
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "league",
+    "id": 2,
+    "name": "Premier League",
+    "children": [
+      {
+        "type": "team",
+        "id": 3,
+        "name": "FC Liverpool",
+        "children": [
+          {
+            "type": "player",
+            "id":5,
+            "name": "Mohamed Salah",
+            "stats": {
+              "goals": 35,
+              "appearances": 15,
+              "tackle": 14
+            }
+          },
+          {
+            "type": "player",
+            "id":6,
+            "name": "Roberto Firmino",
+            "stats": {
+              "goals": 18,
+              "appearances": 17,
+              "tackle": 19
+            }
+          }
+        ]
+      },
+      {
+        "type": "team",
+        "id": 4,
+        "name": "Tottenham Hotspur",
+        "children": [
+          {
+            "type": "player",
+            "id":7,
+            "name": "Son Heung-min",
+            "stats": {
+              "goals": 13,
+              "appearances": 14,
+              "tackle": 17
+            }
+          },
+          {
+            "type": "player",
+            "id":8,
+            "name": "Dele Alli",
+            "stats": {
+              "goals": 14,
+              "appearances": 13,
+              "tackle": 11
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+.drop {
+  &-area {
+    width: calc(100% - 400px);
+    height: 500px;
+    border-radius:3rem ;
+    border-style: dotted;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 20px;
+    text-align: center;
+    padding: 2rem;
+  }
+}

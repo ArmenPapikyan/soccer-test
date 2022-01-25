@@ -1,0 +1,10 @@
+{
+  "type": "player",
+  "id": 4,
+  "name": "Krzystof Platek",
+  "stats": {
+    "goals": 10,
+    "appearances": 20,
+    "tackle": 40
+  }
+}
